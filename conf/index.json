@@ -1,0 +1,14 @@
+{
+	"port": 2198,
+	"vk": {
+		"access_token": "f85f4a86637bdca2cf3fd2110c345ee13636097872378fbe2c5c646d1bd8c672da91302b18a9cdd78286c"
+	},
+	"telegram": {
+		"token": "814979496:AAFQyCVEGPYTxxGezKrHRKr37tGAjFSkyac",
+		"password": "pwd",
+		"tester_id": 564318427
+	},
+	"files": {
+		"path": "/var/www/vtelegram/tmp"
+	}
+}

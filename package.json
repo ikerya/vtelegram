@@ -1,0 +1,25 @@
+{
+  "name": "vtelegram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikerya/vtelegram.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikerya/vtelegram/issues"
+  },
+  "homepage": "https://github.com/ikerya/vtelegram#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nconf": "^0.10.0",
+    "qs": "^6.7.0",
+    "redis": "^2.8.0"
+  }
+}
