@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/ikerya/vtelegram#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nconf": "^0.10.0",
     "qs": "^6.7.0",
     "redis": "^2.8.0"
